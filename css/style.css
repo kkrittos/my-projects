@@ -1,0 +1,148 @@
+body {
+  max-width: 1280px;
+  margin: auto;
+}
+
+.accent-color {
+  color: #4bcaff;
+}
+
+.page-header-logo {
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 94px;
+  color: #000000;
+  margin-bottom: 55px;
+}
+
+.logo-link {
+  text-decoration: none;
+  color: #000000;
+}
+
+.page-header {
+  margin-bottom: 38px;
+  margin-top: 63px;
+}
+
+.page-header-nav {
+  background: #35444f;
+}
+
+.page-header-menu {
+  display: flex;
+  list-style: none;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  color: #ffffff;
+  margin-bottom: 49px;
+  justify-content: center;
+}
+
+.header-nav {
+  border-left: 1px solid #ffffff;
+  border-right: 1px solid #ffffff;
+
+  padding-top: 26px;
+  padding-bottom: 19px;
+  padding-left: 38px;
+  padding-right: 38px;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.page-main-nav {
+  display: flex;
+}
+
+.page-main-menu {
+  background: rgba(0, 0, 0, 0.0001);
+  border: 1px solid #000000;
+  list-style: none;
+  width: 344px;
+  height: 399px;
+  left: 0px;
+  top: 0px;
+  margin-right: 53px;
+  margin-top: 0;
+}
+
+.main-nav {
+  font-weight: 400;
+  font-size: 27px;
+  line-height: 27px;
+  color: #485863;
+  padding-bottom: 25px;
+  padding-top: 26px;
+}
+
+.container {
+  width: 885px;
+  height: 529px;
+  border: 1px solid #000000;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.ramda-icon {
+  background: rgba(0, 0, 0, 0.0001);
+}
+
+.main-container-logo {
+  display: flex;
+  flex-direction: column;
+}
+
+.container-text {
+  text-align: justify;
+}
+
+.ru-text {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #2c2c2c;
+  margin-top: 37px;
+}
+
+.en-text {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #2c2c2c;
+  padding-top: 34px;
+  padding-bottom: 54px;
+}
+
+.page-footer-menu {
+  width: 1280px;
+  height: 69px;
+
+  background: rgba(99, 105, 110, 0.48);
+  list-style: none;
+  display: flex;
+}
+
+.footer-nav {
+  padding-top: 54px;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 28px;
+  color: #0c1927;
+  padding-left: 40px;
+  padding-top: 20px;
+  padding-bottom: 21px;
+}
+
+.copy {
+  padding-left: 135px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 24px;
+  color: #010101;
+}
